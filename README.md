@@ -22,7 +22,6 @@
 <a href="www.linkedin.com/in/llucas-rocha" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
 </a>
-
 <a href="https://mail.google.com/mail/u/0/#inbox">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
