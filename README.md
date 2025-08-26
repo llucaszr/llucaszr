@@ -1,7 +1,7 @@
 ## Olá, sou o Lucas!
 
 **`Estudante de Ti`**
-<p>Sou Estudante de Análise e Desenvolvimento de Sistemas. </p>
+<p>Sou Estudante de Engenharia de Software e ADS. </p>
 
 
 <div style="display: inline_block"><br>
